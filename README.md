@@ -1,2 +1,1 @@
-# Simple-Multiplayer-AR-Game
-Multiplayer AR Game with Unity + Vuforia + PUN 2 (Photon Unity Network)
+3D Multiplayer game consisting of my first ever Blender and Unity project
